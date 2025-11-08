@@ -1,0 +1,5 @@
+{
+  "name": "Video Frame Extractor",
+  "description": "An application to upload a video, extract its distinct frames, and display them with their frame number and timestamp. Useful for selecting keyframes for AI video generation.",
+  "requestFramePermissions": []
+}
